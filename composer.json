@@ -1,0 +1,13 @@
+{
+    "name": "quantity-digital/acf-section",
+    "description": "Organize ACF fields into sections in wordpress admin-panel.",
+    "type": "wordpress-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jimmi Jønsson",
+            "email": "jj@quantitydigital.com"
+        }
+    ],
+    "require": {}
+}
